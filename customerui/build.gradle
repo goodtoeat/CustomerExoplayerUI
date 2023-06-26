@@ -3,8 +3,11 @@ plugins {
     id 'org.jetbrains.kotlin.android' version '1.8.10'
 }
 
+group = "util.hc.exoplayer.customerui" // 替换为你的组织或包名
+version = "1.0.0" // 替换为你的版本号
+
 android {
-    namespace 'util.hc.exoplayer.ui.customerui'
+    namespace 'util.hc.exoplayer.customerui'
     compileSdk 33
 
     defaultConfig {
