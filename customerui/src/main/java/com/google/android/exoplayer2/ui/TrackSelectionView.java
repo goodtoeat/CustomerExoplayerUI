@@ -40,7 +40,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /** A view for making track selections. */
 public class TrackSelectionView extends LinearLayout {

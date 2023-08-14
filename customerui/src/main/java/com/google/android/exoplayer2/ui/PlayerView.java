@@ -76,7 +76,7 @@ import java.lang.annotation.Target;
 import java.util.ArrayList;
 import java.util.List;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /**
  * A high level view for {@link Player} media playbacks. It displays video, subtitles and album art

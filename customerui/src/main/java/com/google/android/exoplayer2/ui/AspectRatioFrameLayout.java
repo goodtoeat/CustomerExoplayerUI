@@ -30,7 +30,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /** A {@link FrameLayout} that resizes itself to match a specified aspect ratio. */
 public final class AspectRatioFrameLayout extends FrameLayout {

@@ -50,7 +50,7 @@ import java.util.Formatter;
 import java.util.Locale;
 import java.util.concurrent.CopyOnWriteArraySet;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /**
  * A time bar that shows a current position, buffered position, duration and ad markers.

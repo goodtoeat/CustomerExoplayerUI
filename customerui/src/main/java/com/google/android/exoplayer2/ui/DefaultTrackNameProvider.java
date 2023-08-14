@@ -28,7 +28,7 @@ import com.google.android.exoplayer2.util.Util;
 
 import java.util.Locale;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /** A default {@link TrackNameProvider}. */
 public class DefaultTrackNameProvider implements TrackNameProvider {

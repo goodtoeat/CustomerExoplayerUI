@@ -45,7 +45,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /** Builder for a dialog with a {@link TrackSelectionView}. */
 public final class TrackSelectionDialogBuilder {

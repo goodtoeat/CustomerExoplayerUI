@@ -77,7 +77,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /**
  * Starts, updates and cancels a media style notification reflecting the player state. The actions

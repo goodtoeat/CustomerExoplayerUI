@@ -33,7 +33,7 @@ import androidx.annotation.Nullable;
 import java.util.ArrayList;
 import java.util.List;
 
-import util.hc.exoplayer.ui.customerui.R;
+import util.hc.exoplayer.customerui.R;
 
 /* package */ final class StyledPlayerControlViewLayoutManager {
   private static final long ANIMATION_INTERVAL_MS = 2_000;
